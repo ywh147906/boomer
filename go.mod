@@ -1,4 +1,4 @@
-module gitlab.cdl5.org/chengdu-l5/boomer
+module github.com/ywh147906/boomer
 
 require (
 	github.com/StackExchange/wmi v1.2.1 // indirect

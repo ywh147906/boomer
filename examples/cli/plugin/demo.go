@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"gitlab.cdl5.org/chengdu-l5/boomer"
+	"github.com/ywh147906/boomer"
 )
 
 // GetName returns a string assigned to task.Name

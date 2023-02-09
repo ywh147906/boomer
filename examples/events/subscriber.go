@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"gitlab.cdl5.org/chengdu-l5/boomer"
+	"github.com/ywh147906/boomer"
 )
 
 // This is an example about how to subscribe to boomer's internal events.

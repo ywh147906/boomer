@@ -16,8 +16,8 @@ import (
 
 	"github.com/yuin/gopher-lua/parse"
 
-	"gitlab.cdl5.org/chengdu-l5/boomer"
 	lua "github.com/yuin/gopher-lua"
+	"github.com/ywh147906/boomer"
 )
 
 // This example uses gopher-lua to run lua scripts.

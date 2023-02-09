@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	"gitlab.cdl5.org/chengdu-l5/boomer"
 	"github.com/valyala/fasthttp"
+	"github.com/ywh147906/boomer"
 )
 
 var client *fasthttp.Client

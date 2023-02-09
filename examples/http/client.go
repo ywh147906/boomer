@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"time"
 
-	"gitlab.cdl5.org/chengdu-l5/boomer"
+	"github.com/ywh147906/boomer"
 )
 
 // This is a tool like Apache Benchmark a.k.a "ab".
